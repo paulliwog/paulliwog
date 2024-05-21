@@ -7,4 +7,4 @@ My name is Paul Phipps and I'm currently a Staff Software Engineer at MasterClas
 - 💬 Ask me about how I made a career transition from network engineering to software engineering
 - 📫 How to reach me: @paulliwog in the CNCF Slack or <a href="https://www.linkedin.com/in/paulphipps">@PaulPhipps</a> on LinkedIn
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I had a glass of the Queen's Champagne in Buckingham Palace
